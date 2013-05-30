@@ -1,0 +1,386 @@
+TGameOfLife
+v7
+r0
+t326612049.407238
+cCheck dependencies
+cProcessInfoPlistFile /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Info.plist GameOfLife-Info.plist
+cCopyStringsFile /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib
+cCpResource build/Debug/GameOfLife.app/Contents/Resources/GameOfLifeIcon.icns GameOfLifeIcon.icns
+cProcessPCH /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/main.o /Users/karl/Documents/GameOfLife/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLifeAppDelegate.o /Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/DrawSpace.o /Users/karl/Documents/GameOfLife/DrawSpace.M normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife normal x86_64
+cTouch /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/karl/Documents/GameOfLife/DrawSpace.M
+c000000004DC77CD00000000000009282
+t1304919248
+s37506
+i"DrawSpace.h"
+
+N/Users/karl/Documents/GameOfLife/DrawSpace.h
+c000000004DC77CD00000000000000905
+t1304919248
+s2309
+i<Cocoa/Cocoa.h>
+i<stdio.h>
+
+N/Users/karl/Documents/GameOfLife/English.lproj/InfoPlist.strings
+c000000004D6EDC16000000000000002D
+t1299110934
+s45
+
+N/Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib
+c000000004DC76F46000000000003D380
+t1304915782
+s250752
+
+N/Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M
+c000000004D6EDC450000000000000172
+t1299110981
+s370
+i"GameOfLifeAppDelegate.h"
+
+N/Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.h
+c000000004D9A49B8000000000000013E
+t1301957048
+s318
+i<Cocoa/Cocoa.h>
+
+N/Users/karl/Documents/GameOfLife/GameOfLifeIcon.icns
+c000000004D7DD3B80000000000000F7D
+t1300091832
+s3965
+
+N/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch
+c000000004D6EDC160000000000000097
+t1299110934
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app
+t1304919249
+s102
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Info.plist
+t1304284704
+s1373
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife
+t1304919249
+s51224
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/PkgInfo
+t1304284704
+s8
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1299617441
+s92
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/MainMenu.nib
+t1304915785
+s62625
+
+N/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/GameOfLifeIcon.icns
+t1304284704
+s3965
+
+N/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/DrawSpace.o
+t1304919249
+s85096
+
+N/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLife.LinkFileList
+c000000004D76969F000000000000015A
+t1299617439
+s346
+
+N/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLifeAppDelegate.o
+t1304704228
+s14796
+
+N/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/main.o
+t1304704228
+s4992
+
+N/Users/karl/Documents/GameOfLife/main.m
+c000000004D6EDC1600000000000000FE
+t1299110934
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-addyznfcvwbbjbapwtyjwcpxfczq/GameOfLife_Prefix.pch.gch
+t1304284751
+s51179824
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch.gch
+t1304704225
+s55386384
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-ecgyyfkzzdbgubgyiuwhqxbpxfxi/GameOfLife_Prefix.pch.gch
+t1299617625
+s54212368
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-enbpemjyxcwuupdmmgwxueuxqyou/GameOfLife_Prefix.pch.gch
+t1299617627
+s58541712
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-eqbbbmaidvglaydtthalqleeouzn/GameOfLife_Prefix.pch.gch
+t1301956989
+s55382288
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-fpcpdjyazkzerxcehxcpfroqnexy/GameOfLife_Prefix.pch.gch
+t1304284746
+s55382288
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch.gch
+t1304704224
+s51183920
+
+N/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-hhmbybkannfclmdohppsvxmxtgfr/GameOfLife_Prefix.pch.gch
+t1301956993
+s51188016
+
+NGameOfLife-Info.plist
+c000000004D7DD306000000000000040C
+t1300091654
+s1036
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326612048#326612049#0(0"0(0#1#0"8613968960#0"0#
+
+CCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/DrawSpace.o /Users/karl/Documents/GameOfLife/DrawSpace.M normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s326612048.935088
+e326612049.350923
+r1
+xCompileC
+xbuild/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/DrawSpace.o
+x/Users/karl/Documents/GameOfLife/DrawSpace.M
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/karl/Documents/GameOfLife/DrawSpace.M326612048#326612049#0(0"0(0#0#44"/Users/karl/Documents/GameOfLife/DrawSpace.M8617624064#1488"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -include /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch -c /Users/karl/Documents/GameOfLife/DrawSpace.M -o /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/DrawSpace.o0#
+
+CCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLifeAppDelegate.o /Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s326397026.282154
+e326397028.370944
+r1
+xCompileC
+xbuild/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLifeAppDelegate.o
+x/Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M326397026#326397028#0(0"0(0#0#56"/Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M8611073856#1512"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -include /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch -c /Users/karl/Documents/GameOfLife/GameOfLifeAppDelegate.M -o /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLifeAppDelegate.o0#
+
+CCompileC build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/main.o /Users/karl/Documents/GameOfLife/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326397026.232587
+e326397028.149779
+r1
+xCompileC
+xbuild/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/main.o
+x/Users/karl/Documents/GameOfLife/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/karl/Documents/GameOfLife/main.m326397026#326397028#0(0"0(0#0#39"/Users/karl/Documents/GameOfLife/main.m8618719648#1459"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -include /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch -c /Users/karl/Documents/GameOfLife/main.m -o /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib
+s326608584.534492
+e326608585.413493
+r1
+xCompileXIB
+x/Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib326608584#326608585#0(0"0(0#0#59"/Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib8618529696#349"    cd /Users/karl/Documents/GameOfLife    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/MainMenu.nib /Users/karl/Documents/GameOfLife/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321310239.933220
+e321310241.375595
+r1
+xCopyStringsFile
+x/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321310239#321310241#0(0"0(0#0#64"/Users/karl/Documents/GameOfLife/English.lproj/InfoPlist.strings4300882208#356"    cd /Users/karl/Documents/GameOfLife    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/GameOfLife.app/Contents/Resources/GameOfLifeIcon.icns GameOfLifeIcon.icns
+s325977504.499717
+e325977504.641331
+r1
+xCpResource
+xbuild/Debug/GameOfLife.app/Contents/Resources/GameOfLifeIcon.icns
+xGameOfLifeIcon.icns
+lSLF07#2@24"Copy GameOfLifeIcon.icns325977504#325977504#0(0"0(0#0#52"/Users/karl/Documents/GameOfLife/GameOfLifeIcon.icns8612203360#334"    cd /Users/karl/Documents/GameOfLife    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/karl/Documents/GameOfLife/GameOfLifeIcon.icns /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Resources0#
+
+CLd /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife normal x86_64
+s326612049.351017
+e326612049.404357
+r1
+xLd
+x/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife326612049#326612049#0(0"0(0#0#0"27303270316048488#527"    cd /Users/karl/Documents/GameOfLife    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/karl/Documents/GameOfLife/build/Debug -F/Users/karl/Documents/GameOfLife/build/Debug -filelist /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/Objects-normal/x86_64/GameOfLife.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/MacOS/GameOfLife0#
+
+CProcessInfoPlistFile /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Info.plist GameOfLife-Info.plist
+s325977504.392666
+e325977504.465847
+r1
+xProcessInfoPlistFile
+x/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Info.plist
+xGameOfLife-Info.plist
+lSLF07#2@29"Process GameOfLife-Info.plist325977504#325977504#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife-Info.plist28429410741321804#301"    cd /Users/karl/Documents/GameOfLife    builtin-infoPlistUtility GameOfLife-Info.plist -genpkginfo /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-addyznfcvwbbjbapwtyjwcpxfczq/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s325977506.401853
+e325977552.073132
+r1
+xProcessPCH
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-addyznfcvwbbjbapwtyjwcpxfczq/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch325977506#325977552#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch8616889280#1353"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-addyznfcvwbbjbapwtyjwcpxfczq/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-ecgyyfkzzdbgubgyiuwhqxbpxfxi/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321310419.933116
+e321310426.112674
+r1
+xProcessPCH
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-ecgyyfkzzdbgubgyiuwhqxbpxfxi/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch321310419#321310426#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch4300882208#1353"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-ecgyyfkzzdbgubgyiuwhqxbpxfxi/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s326397010.381594
+e326397024.138426
+r1
+xProcessPCH
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch326397010#326397024#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch8616295744#1368"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-gsbwmbwntrqqrnfqczlosezigkae/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-hhmbybkannfclmdohppsvxmxtgfr/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323649742.438591
+e323649793.063286
+r1
+xProcessPCH
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-hhmbybkannfclmdohppsvxmxtgfr/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch323649742#323649793#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch7009623517912458240#1353"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-hhmbybkannfclmdohppsvxmxtgfr/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s326397010.382896
+e326397026.232444
+r1
+xProcessPCH++
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch326397010#326397026#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch8616229152#1387"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-dbshhscsavinrrbgfgsnycovvgsu/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-enbpemjyxcwuupdmmgwxueuxqyou/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s321310419.966177
+e321310428.126095
+r1
+xProcessPCH++
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-enbpemjyxcwuupdmmgwxueuxqyou/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch321310419#321310428#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch4300882208#1372"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-enbpemjyxcwuupdmmgwxueuxqyou/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-eqbbbmaidvglaydtthalqleeouzn/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s323649742.439743
+e323649789.983325
+r1
+xProcessPCH++
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-eqbbbmaidvglaydtthalqleeouzn/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch323649742#323649789#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch4300882208#1372"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-eqbbbmaidvglaydtthalqleeouzn/GameOfLife_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-fpcpdjyazkzerxcehxcpfroqnexy/GameOfLife_Prefix.pch.gch GameOfLife_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+s325977506.440195
+e325977547.946419
+r1
+xProcessPCH++
+x/var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-fpcpdjyazkzerxcehxcpfroqnexy/GameOfLife_Prefix.pch.gch
+xGameOfLife_Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GameOfLife_Prefix.pch325977506#325977547#0(0"0(0#0#54"/Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch8616490592#1372"    cd /Users/karl/Documents/GameOfLife    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-generated-files.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-own-target-headers.hmap -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-all-target-headers.hmap -iquote /Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/GameOfLife-project-headers.hmap -F/Users/karl/Documents/GameOfLife/build/Debug -I/Users/karl/Documents/GameOfLife/build/Debug/include -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources/x86_64 -I/Users/karl/Documents/GameOfLife/build/GameOfLife.build/Debug/GameOfLife.build/DerivedSources -c /Users/karl/Documents/GameOfLife/GameOfLife_Prefix.pch -o /var/folders/0B/0BDvnhZrFGGZ7-jk2bgWmk+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/GameOfLife_Prefix-fpcpdjyazkzerxcehxcpfroqnexy/GameOfLife_Prefix.pch.gch0#
+
+CTouch /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app
+s326612049.404462
+e326612049.407194
+r1
+xTouch
+x/Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app
+lSLF07#2@65"Touch /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app326612049#326612049#0(0"0(0#0#0"8601705408#122"    cd /Users/karl/Documents/GameOfLife    /usr/bin/touch -c /Users/karl/Documents/GameOfLife/build/Debug/GameOfLife.app0#
+
